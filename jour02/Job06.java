@@ -4,6 +4,6 @@ public class Job06 {
         for (int i=0; i<=100;i+=2) {
             somme+=i;
             }
-        System.out.println(somme);
+        System.out.println("La somme des nombres pairs entre 1 et 100 est :"+somme);
     }
 }
